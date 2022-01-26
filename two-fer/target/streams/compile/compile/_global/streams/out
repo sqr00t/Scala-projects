@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/mnt/f/Exercism/scala/two-fer/src/main/scala/Twofer.scala:2:7: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m  def twofer(name: Option[String] = None)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/f/Exercism/scala/two-fer/src/main/scala/Twofer.scala:3:7: not found: value nameOrDefault[0m
+[0m[[0m[31merror[0m] [0m[0m      nameOrDefault = {f"One for ${name}, one for me."}[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/f/Exercism/scala/two-fer/src/main/scala/Twofer.scala:4:7: not found: value getOrElse[0m
+[0m[[0m[31merror[0m] [0m[0m      getOrElse {"One for you, one for me."}[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
